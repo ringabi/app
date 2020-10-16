@@ -19,12 +19,6 @@
   border: 1px solid $color-d8e3fe;
 }
 
-.hero-image {
-  padding-top: 91px;
-  padding-bottom: 28px;
-  background: linear-gradient(180deg, #F4F7FF 0%, #F1F5FF 100%);
-}
-
 .bg-hr {
   background: right/contain no-repeat url("../images/Vector-21.png"), top/contain no-repeat url("../images/vector-22.png");
   height: 347px;
@@ -105,19 +99,6 @@
   height: 69px;
 }
 
-.bg-ellipse-white {
-  background: no-repeat url(../images/Ellipse-white.png);
-  background-size: cover;
-  width: 152px;
-  height: 152px;
-}
-
-.bg-Vector-21 {
-  background: no-repeat url(../images/Vector-21.png);
-  height: 347px;
-  width: 100vw;
-}
-
 .w-1163 {
   width: 1163.5px;
 }
@@ -140,6 +121,10 @@
 
 .w-337 {
   width: 337px;
+}
+
+.w-330 {
+  width: 330px;
 }
 
 .w-279 {
@@ -180,12 +165,6 @@
 
 .w-60 {
   width: 60px;
-}
-
-.bg-photo-1 {
-  background: no-repeat url(../images/photo-1.png);
-  width: 267px;
-  height: 267px;
 }
 
 #about-us h4 {
